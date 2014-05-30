@@ -1,4 +1,4 @@
-(defproject org.clojure/core.memoize "0.5.7-SNAPSHOT-tccfix"
+(defproject org.clojure/core.memoize "0.5.7-tccfix"
   :description "A memoization library for Clojure."
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [org.clojure/core.cache "0.6.3"]]
